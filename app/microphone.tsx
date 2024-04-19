@@ -171,7 +171,7 @@ export default function Microphone() {
             }
           />
         </button>
-        <div className="mt-20 p-6 text-xl text-center">
+        <div className="mt-20 border-2 border-white/40 w-[60%] m-auto p-6 text-xl text-center">
           {caption  && caption}
         </div>
       </div>
